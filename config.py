@@ -5,3 +5,4 @@ name = "Garima Joshi"
 nameList = ["Garima", "Rachel", "Monica", "Aditi"]
 newVar = "feature_brach_again"
 f = "from feature branch"
+g = "added in branch 1" 
